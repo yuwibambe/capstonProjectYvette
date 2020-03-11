@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<persistence version="2.1" xmlns="http://xmlns.jcp.org/xml/ns/persistence" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/persistence http://xmlns.jcp.org/xml/ns/persistence/persistence_2_1.xsd">
+	<persistence-unit name="mama">
+	<class>org.perscholas.JPA.Entities.Member</class>
+		<class>org.perscholas.JPA.Entities.Workout</class>
+		<class>org.perscholas.JPA.Entities.Class</class>
+		<class>org.perscholas.JPA.Entities.Weight</class>
+		<class>org.perscholas.JPA.Entities.Calorie</class>
+		<class>org.perscholas.JPA.Entities.MemberLog</class>
+		<class>org.perscholas.JPA.Entities.Goal</class>
+		<properties>
+			<property name="javax.persistence.jdbc.url"
+				value="jdbc:mysql://localhost:3306/yufitness" />
+			<property name="javax.persistence.jdbc.user" value="root" />
+			<property name="javax.persistence.jdbc.password" value="123" />
+			<property name="javax.persistence.jdbc.driver"
+				value="com.mysql.cj.jdbc.Driver" />
+			<property name="eclipseLink.logging.Level" value="WARNING" />
+			</properties>
+	</persistence-unit>
+</persistence>
