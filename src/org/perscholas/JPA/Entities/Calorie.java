@@ -1,3 +1,8 @@
+/**
+ * Entity implementation class for Entity: Calorie
+ *
+ */
+
 package org.perscholas.JPA.Entities;
 
 import java.io.Serializable;
