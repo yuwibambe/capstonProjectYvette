@@ -1,3 +1,9 @@
+/**
+ * @author Yvette U.
+ * Entity implementation class for Entity: class service
+ *
+ */
+
 package org.perscholas.JPA.Services;
 
 import java.lang.reflect.Member;

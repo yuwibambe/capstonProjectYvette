@@ -1,3 +1,10 @@
+/**
+ * @author Yvette U.
+ * Entity implementation class for Goal Service
+ *
+ */
+
+
 package org.perscholas.JPA.Services;
 
 import java.lang.reflect.Member;

@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.perscholas.JPA.Entities"},{"l":"org.perscholas.JPA.Services"},{"l":"org.perscholas.servlets"}]

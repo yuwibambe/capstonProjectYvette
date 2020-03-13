@@ -1,4 +1,7 @@
+
 /**
+ * @author Yvette U.
+ * Entity implementation class for Calorie service
  *
  */
 package org.perscholas.JPA.Services;

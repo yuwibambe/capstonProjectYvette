@@ -1,3 +1,8 @@
+/**
+ * @author Yvette U.
+ * Entity implementation class for calorie service
+ *
+ */
 package org.perscholas.JPA.Services;
 
 import java.util.List;

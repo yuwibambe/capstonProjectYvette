@@ -1,3 +1,9 @@
+/**
+ * @author Yvette U.
+ * Entity implementation class for Entity: Goal
+ *
+ */
+
 package org.perscholas.JPA.Entities;
 
 import java.io.Serializable;

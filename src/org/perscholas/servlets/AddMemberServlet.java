@@ -1,3 +1,9 @@
+/**
+ * @author Yvette U.
+ * Servlet implementation class AddMemberServlet
+ *
+ */
+
 package org.perscholas.servlets;
 
 import java.io.IOException;

@@ -1,4 +1,5 @@
 /**
+ * @author Yvette U.
  * Entity implementation class for Entity: Calorie
  *
  */

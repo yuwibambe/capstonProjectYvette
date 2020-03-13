@@ -1,3 +1,9 @@
+/**
+ * @author Yvette U.
+ * Entity implementation class for AbstractService
+ *
+ */
+
 package org.perscholas.JPA.Services;
 
 import javax.persistence.EntityManager;

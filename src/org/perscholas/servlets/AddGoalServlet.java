@@ -1,3 +1,9 @@
+/**
+ * @author Yvette U.
+ * Servlet implementation class AddGoalServlet
+ *
+ */
+
 package org.perscholas.servlets;
 
 import java.io.IOException;
